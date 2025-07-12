@@ -1,1 +1,1 @@
-# github-webhook
+# github-webhooks
